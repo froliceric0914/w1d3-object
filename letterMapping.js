@@ -5,7 +5,7 @@ function countLetter(str){
   var counter = {};
    for (var letter of str) {
     counter[letter] = [];
-    var j = 0;
+    var j = 0; //????
   }
   for (var letter of str) {
     counter[letter].push(j);
